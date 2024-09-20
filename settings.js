@@ -6,12 +6,12 @@ const chalk = require('chalk')
 global.sessionid ='put your session id here'
 
 //owmner v card
-global.ytname = "YT: ELITE-PRO-V2" //ur yt chanel name
+global.ytname = "YT: N̷̷i̷̷g̷̷h̷̷t̷̷m̷a̷̷r̷̷e̷ ̷K̷̷i̷̷n̷̷g̷" //ur yt chanel name
 global.socialm = "GitHub: Elite-MD" //ur github or insta name
-global.location = "Port Harcourt, Nigeria" //ur location
+global.location = "Lagos, Nigeria" //ur location
 
 //new
-global.botname = 'ELITE-PRO-V2' //ur bot name
+global.botname = 'N̷̷i̷̷g̷̷h̷̷t̷̷m̷a̷̷r̷̷e̷ ̷K̷̷i̷̷n̷̷g̷ X' //ur bot name
 global.ownernumber = '2348109263390' //ur owner number
 global.ownername = 'ELITE-PRO-V2' //ur owner name
 global.websitex = "https://youtu.be/@elite-pro-empire"
